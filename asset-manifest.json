@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SuperBouts/static/css/main.5e534e66.chunk.css",
+    "main.js": "/SuperBouts/static/js/main.c9d11eb3.chunk.js",
+    "main.js.map": "/SuperBouts/static/js/main.c9d11eb3.chunk.js.map",
+    "runtime-main.js": "/SuperBouts/static/js/runtime-main.22729a60.js",
+    "runtime-main.js.map": "/SuperBouts/static/js/runtime-main.22729a60.js.map",
+    "static/js/2.ca205371.chunk.js": "/SuperBouts/static/js/2.ca205371.chunk.js",
+    "static/js/2.ca205371.chunk.js.map": "/SuperBouts/static/js/2.ca205371.chunk.js.map",
+    "index.html": "/SuperBouts/index.html",
+    "static/css/main.5e534e66.chunk.css.map": "/SuperBouts/static/css/main.5e534e66.chunk.css.map",
+    "static/js/2.ca205371.chunk.js.LICENSE.txt": "/SuperBouts/static/js/2.ca205371.chunk.js.LICENSE.txt",
+    "static/media/boxer-demo.4edee38d.jpg": "/SuperBouts/static/media/boxer-demo.4edee38d.jpg",
+    "static/media/boxing-demo.jpg": "/SuperBouts/static/media/boxing-demo.4511f46b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22729a60.js",
+    "static/js/2.ca205371.chunk.js",
+    "static/css/main.5e534e66.chunk.css",
+    "static/js/main.c9d11eb3.chunk.js"
+  ]
+}
